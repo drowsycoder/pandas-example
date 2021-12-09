@@ -1,5 +1,5 @@
 # pandas-example
-Example of using Pandas for processing State Duma deputies data
+Example of using Pandas for processing State Duma deputies data (plain Python script with basic optimization, Jupyter Notebook is not used).
 
 ![Preview](./deputies_pic_1.png)
 
