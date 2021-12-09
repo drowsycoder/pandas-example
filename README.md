@@ -3,7 +3,7 @@ Example of using Pandas for processing State Duma deputies data (plain Python sc
 
 ![Preview](./deputies_pic_1.png)
 
-![Preview](./deputies_pic_4.png)
+<!-- ![Preview](./deputies_pic_4.png) -->
 
 ![Preview](./deputies_pic_2.png)
 
